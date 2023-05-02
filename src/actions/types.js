@@ -1,0 +1,3 @@
+export const UPDATE_ATTRIBUTE = "UPDATE_ATTRIBUTE";
+export const OPEN_MODAL = "OPEN_MODAL";
+export const CLOSE_MODAL = "CLOSE_MODAL";
