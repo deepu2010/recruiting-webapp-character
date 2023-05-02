@@ -44,3 +44,37 @@
     transform: rotate(360deg);
   }
 }
+
+.attribute-label {
+  font-size: 20px;
+  font-weight: bold;
+  margin-right: 10px;
+}
+
+.attribute-value {
+  font-size: 20px;
+  margin-right: 10px;
+}
+
+.attribute-buttons {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.attribute {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  width: 100%;
+  max-width: 400px;
+}
+
+.modal-title.centered {
+  text-align: center;
+}
